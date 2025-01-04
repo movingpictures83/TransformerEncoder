@@ -1,0 +1,2 @@
+Prefix plugins/TransfomerEncoder/example/
+Plugin TransformerEncoder inputfile data/ outputfile WaLeF_transformer.h5
